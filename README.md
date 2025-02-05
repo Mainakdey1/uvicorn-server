@@ -8,3 +8,7 @@ http://127.0.0.1:8000/banks
 
 Get the details of a particular branch by providing its IFSC code:
 http://127.0.0.1:8000/branches/YOUR_IFSC_CODE
+
+
+Time taken to complete task:
+2-3 hours
