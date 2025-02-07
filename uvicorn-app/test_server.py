@@ -6,7 +6,7 @@ app = FastAPI()
 
 DB_CONFIG = {
     "user": "postgres",
-    "password": "", 
+    "password": "steprosis4.56", 
     "database": "indian_banks",
     "host": "localhost",
     "port": 5432
