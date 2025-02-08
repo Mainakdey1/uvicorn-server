@@ -9,6 +9,8 @@ http://127.0.0.1:8000/banks
 Get the details of a particular branch by providing its IFSC code:
 http://127.0.0.1:8000/branches/YOUR_IFSC_CODE
 
+The API was hosted on railway.app because heroku was a paid option and I didnt have money.
+
 
 Time taken to complete task:
 2-3 hours
